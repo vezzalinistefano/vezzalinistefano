@@ -5,7 +5,7 @@ My name is Stefano Vezzalini, I'm a DevOps engineer living in Italy.
 I like to build and deploy in the cloud but I don't mind doing things the old fashioned way if it's needed,
 I'm really fascinated by Linux and the open source world and I try my best in contributing to the software community.
 
-I'm currently intrested in Cloud Native, platoform engineering distributed system and everything related.
+I'm currently intrested in Cloud Native, platform engineering, distributed system and everything related.
 
 In my free time I like to distro hop, play games, punch people (I'm an MMA and Kickboxing amateur), listen
 to music and watch (never enough) movies.
@@ -21,7 +21,7 @@ you can find my dotfiles [here](https://github.com/vezzalinistefano/dotfiles) fe
 **Some of my projects**:
 - [Athena](https://github.com/vezzalinistefano/Athena): _a Django website to purchase and create courses, integrated with Vimeo_
 - [Split](https://github.com/vezzalinistefano/Split): _a Java application to split, compress and encrypt different files_
-- [riscv-mergesort](https://github.com/vezzalinistefano/riscv-mergesort): a RiscV implementation of the mergesort algorithm
+- [riscv-mergesort](https://github.com/vezzalinistefano/riscv-mergesort): _a RiscV implementation of the mergesort algorithm_
 
 ---
 
