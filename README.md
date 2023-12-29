@@ -3,11 +3,11 @@
 My name is Stefano Vezzalini, I'm a DevOps engineer living in Italy.
 
 I like to build and deploy in the cloud but I don't mind doing things the old fashioned way if it's needed,
-I'm really fascinated by Linux and the open source world and I try my best in contributing to the software community.
+I'm really fascinated by Linux and the open source world and I try my best in contributing to this community.
 
 I'm currently intrested in Cloud Native, platform engineering, distributed system and everything related.
 
-In my free time I like to distro hop, play games, punch people (I'm an MMA and Kickboxing amateur), listen
+In my free time I like to distro hop, play games, practice martial arts, listen
 to music and watch (never enough) movies.
 
 ---
