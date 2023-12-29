@@ -1,9 +1,10 @@
 👋 Hi there!
 
-My name is Stefano Vezzalini, I'm a DevOps engineer living in Italy.
+My name is Stefano Vezzalini, I've got a bechelor degree in Computer science and I'm a DevOps engineer living in Italy.
 
 I like to build and deploy in the cloud but I don't mind doing things the old fashioned way if it's needed,
 I'm really fascinated by Linux and the open source world and I try my best in contributing to this community.
+In 2021 I did a thesis about AWS Batch that's publicly available [here](https://github.com/vezzalinistefano/vezzalinistefano/blob/main/docs/thesis.pdf).
 
 I'm currently intrested in Cloud Native, platform engineering, distributed system and everything related.
 
