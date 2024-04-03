@@ -14,7 +14,7 @@ to music and watch (never enough) movies.
 ---
 
 My main machine is powered by Arch Linux, I like to build and maintain my desktop environments from scratch,
-If you are intrested in tiling window managers, editor-based editors (~_nvim is the best editor btw_) and heavy Linux customization
+If you are intrested in tiling window managers, terminal-based editors (~_nvim is the best editor btw_) and heavy Linux customization
 you can find my dotfiles [here](https://github.com/vezzalinistefano/dotfiles) feel free to take inspiration from them!
 
 ---
